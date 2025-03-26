@@ -4,12 +4,12 @@ CONFIG = {
     'api_setting':{
 
         # Setting API for evaluated model
-        'base_url' : "https://api.claudeshop.top/v1",
-        'api_key' : "sk-W8y2S1Op0NjLvQ17G313msRgnHjRWDDW1MeVBqGwNIcauFSQ",
+        'base_url' : "",
+        'api_key' : "",
 
         # Setting API for extractor. We use DeepSeek (https://api.deepseek.com) for extracting results from model's responses
         'base_url_dpsk': "https://api.deepseek.com",
-        'api_key_dpsk': "sk-8c0b70e1951044c98afab5b13481ceb3",        
+        'api_key_dpsk': "",        
 
         # Setting API for automatically scoring Oddball Test 
         'api_key_embedding' :"",

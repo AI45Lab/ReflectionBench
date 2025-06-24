@@ -1,8 +1,8 @@
 # 🪞[ICML2025] Reflection-Bench
 
-
-
-![ReflectionBenchPoster](https://github.com/user-attachments/assets/1d717779-03f5-4283-8510-33211b289cc0)
+<p align="center">
+  <img src="./figs/ReflectionBenchPoster.png">
+</p>
 
 ## Overview
 

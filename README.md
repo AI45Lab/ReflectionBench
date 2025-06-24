@@ -133,13 +133,14 @@ Although current LLMs show certain agency, **they all struggle with meta-reflect
 
 You can cite Reflection-Bench as:
 ```
-@misc{li2024reflectionbenchprobingaiintelligence,
-      title={Reflection-Bench: probing AI intelligence with reflection}, 
+@misc{li2025reflectionbenchevaluatingepistemicagency,
+      title={Reflection-Bench: Evaluating Epistemic Agency in Large Language Models}, 
       author={Lingyu Li and Yixu Wang and Haiquan Zhao and Shuqi Kong and Yan Teng and Chunbo Li and Yingchun Wang},
-      year={2024},
+      year={2025},
       eprint={2410.16270},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2410.16270}, 
 }
+
 ```

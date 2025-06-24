@@ -1,19 +1,18 @@
-# 🪞Reflection-Bench
+# 🪞[ICML2025] Reflection-Bench
 
-<p align="center">
-    <img src="./figs/Las_Meninas.jpg" width="500">
-    <br>
-    <em>Las Meninas</em>, Diego Velázquez, 1656
-</p>
 
+
+![ReflectionBenchPoster](https://github.com/user-attachments/assets/1d717779-03f5-4283-8510-33211b289cc0)
 
 ## Overview
 
 
 
-**Reflection-Bench** is an open-source benchmark ***inspired by cognitive psychology***, designed to systematically evaluate the capabilities of large language models (LLMs) as the core of autonomous agents. It focuses on seven interrelated cognitive dimensions: prediction, decision-making, perception, memory, counterfactual thinking, belief updating, and meta-reflection. Correspondingly, Reflection-Bench involves 7 ***parameterized*** cogntive tests, making it ***contamination-fre*e**.
+**Reflection-Bench** is an open-source benchmark ***inspired by cognitive psychology***, designed to systematically evaluate the **epistemic** agency of large language models (LLMs) as the core of autonomous agents. It focuses on seven interrelated cognitive dimensions: prediction, decision-making, perception, memory, counterfactual thinking, belief updating, and meta-reflection. Correspondingly, Reflection-Bench involves 7 ***parameterized*** cogntive tests, making it ***contamination-fre*e**.
 
 🌟 Explore more on our project website: [ReflectionBench.github.io](https://ReflectionBench.github.io).
+
+
 
 ## Tasks
 

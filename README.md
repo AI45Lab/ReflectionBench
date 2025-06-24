@@ -8,7 +8,7 @@
 
 
 
-**Reflection-Bench** is an open-source benchmark ***inspired by cognitive psychology***, designed to systematically evaluate the **epistemic** agency of large language models (LLMs) as the core of autonomous agents. It focuses on seven interrelated cognitive dimensions: prediction, decision-making, perception, memory, counterfactual thinking, belief updating, and meta-reflection. Correspondingly, Reflection-Bench involves 7 ***parameterized*** cogntive tests, making it ***contamination-fre*e**.
+**Reflection-Bench** is an open-source benchmark ***inspired by cognitive psychology***, designed to systematically evaluate the **epistemic** agency of large language models (LLMs) as the core of autonomous agents. It focuses on seven interrelated cognitive dimensions: prediction, decision-making, perception, memory, counterfactual thinking, belief updating, and meta-reflection. Correspondingly, Reflection-Bench involves 7 ***parameterized*** cogntive tests: Weather Prediction Task, Wisconsin Card Sorting Task, Oddbal Test, N-back, Double-Choice Iowa Gambling Task, Probabilistic Reversal Learning Task, and Meta-bandit Task, respectively.
 
 🌟 Explore more on our project website: [ReflectionBench.github.io](https://ReflectionBench.github.io).
 
